@@ -1,0 +1,11 @@
+#amountSold {
+    color: green;
+}
+
+#amountStock {
+    color: blue;
+}
+
+#differenceSoldStock {
+    color: red;
+}
